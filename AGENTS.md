@@ -1,10 +1,9 @@
-# MSB public-repository policy
+# Multi-study public-repository policy
 
-This repository is the privacy-first public-data surface for the Multi-Story
-Building (MSB) research series. It may contain only public-safe repository and
-dataset documentation, scripts, schemas, and manifest-approved sanitized
-dataset bundles. Scientific research development belongs outside this
-repository.
+This repository is the privacy-first public-data surface for approved Wi-Fi
+sensing studies, including MSB and UGRR. It may contain only public-safe
+documentation, scripts, schemas, and manifest-approved sanitized bundles.
+Scientific research development belongs outside this repository.
 
 ## Evidence and privacy
 
